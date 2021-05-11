@@ -1,0 +1,98 @@
+@media screen and (max-width: 900px) {
+    .container {
+      flex-direction: column;
+      justify-content: center;
+      margin-left: 0px;
+      margin-right: 0px;
+      padding: 0px 20px 0px 20px;
+    }
+    /* HEADER */
+    header .container {
+        display: flex;
+        flex-direction: row;
+    }
+    header img {
+        width: 80%;
+    }
+    nav li{
+        display: inline;
+        margin-right: 5px;
+        font-size: 14px;
+        padding-right: 0px;
+    }
+    .menu {
+        width: 100%;
+    }
+    /* INTRO */
+    .cent{
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+    .intro_img, .stay-img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 70%;
+    }
+    .intro-img {
+        display: flex;
+        justify-content: center;
+    }
+    .title {
+        font-size: 30px;
+    }
+    /*Beneficios */
+    .beneficios {
+        justify-content: center;
+        margin-top:  -335px;
+        padding-top: 400px;
+    }
+    .acess-card {
+        display: none;
+    }
+    .acess {
+        border: 1px solid red;
+    }
+    /* See How */
+    .seehow {
+        justify-content: center;
+        text-align: center;
+    } 
+    .seehow-txt {
+        margin: 0px;
+    } 
+    .aligntxt {
+        text-align: center;
+    }  
+    .seehow-link {
+        width: 100%;
+        margin-left: 0px;
+        border: none;
+    }
+    .seehow-link:hover {
+        border: none;
+    }
+    .seehow-link a {
+        border-bottom: 1px solid hsl(176, 68%, 64%);
+    }
+    .aligntxt{
+        text-align: center;
+    }
+    /* Depoiments Cards */
+    .depoiment-card {
+        margin-left: 0px;
+        margin-top: 10px;
+    }
+    /* Footer */
+    footer {
+        flex-direction: column;
+    }
+    .ft-items {
+        flex-direction: column;
+    }
+    .ft-one, .ft-two {
+        margin-top: 30px;
+    }
+  } 
+
+ 
