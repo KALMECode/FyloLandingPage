@@ -19,6 +19,6 @@
 
 
 <p>
-A landing page pode ser acessada através do endereço: https://fylo-kalme.netlify.app/
+A landing page pode ser acessada através do endereço: https://fylo-kalme.netlify.app/  <br>
 Muito obrigado por visitar meu projeto!
 <p>
